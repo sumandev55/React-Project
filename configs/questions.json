@@ -1,0 +1,152 @@
+{
+  "skippable": [
+   
+  ],
+  "all": [
+     {
+      "id": 1,
+      "type": "small-unique-options",
+      "question": "Who is the third President of USA?",
+      "options": [
+        {
+          "id": 1,
+          "description": "Thomas Jefferson",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "description": "John Adams",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "description": "Abraham Lincoln",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "description": "George Washington",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "small-unique-options",
+      "question": "What state of USA was once part of Mexico?",
+      "options": [
+        {
+          "id": 1,
+          "description": "Texas",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "description": "MaryLand",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "description": "New York",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "description": "Alaska",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "small-unique-options",
+      "question": "What is the number of states in USA?",
+      "options": [
+        {
+          "id": 1,
+          "description": "24",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "description": "50",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "description": "60",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "description": "49",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "small-unique-options",
+      "question": "Which City is know as Big Apple ?:",
+      "options": [
+        {
+          "id": 1,
+          "description": "Los Angelses",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "description": "Houston",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "description": "New York",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "description": "Washington DC",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "small-unique-options",
+      "question": "Which of the following cities is in Nevada?:",
+      "options": [
+        {
+          "id": 1,
+          "description": "Reno",
+          "selected": false
+        },
+        {
+          "id": 2,
+          "description": "Los Angeles",
+          "selected": false
+        },
+        {
+          "id": 3,
+          "description": "Montreal",
+          "selected": false
+        },
+        {
+          "id": 4,
+          "description": "Atlanta",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "configs": {
+    "welcome": "Welcome to the Quick Quiz Contest",
+    "tip": "There will be a total of 5 Questions.Please answer them to test your General Knowledge",
+    "closingmessage": "Thanks for trying our Quiz App",
+    "closingtip": "Thanks for Completing the Quiz. You score is",
+    "tooltip": "You must answer to continue.",
+    "waitmessage": "Thanks for Completing the Quiz.You score is",
+    "endMessage":"Out of 5"
+  },
+  "posturl": "http://your-url-goes-here"
+}
